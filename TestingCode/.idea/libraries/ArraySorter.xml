@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ArraySorter">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../ArraySorter/out/artifacts/ArraySorter_jar/ArraySorter.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
