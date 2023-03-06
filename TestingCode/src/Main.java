@@ -7,44 +7,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-//        Planets tempMoon = new Planets("Moon", 27);
-//        Planets temp = new Planets("Earth",88);
-//        solarSystem.put(temp.getName(), temp);
-//        planets.add(temp);
-//        temp.addMoon(tempMoon);
-//
-//        Planets body = solarSystem.get("Earth");
-//
-//
-//        for (Planets planets: body.getSatellites())
-//            System.out.println(planets.getName());
-
-        Scanner scanner = new Scanner(System.in);
-
-        System.out.println("Hello! My name is Vega.");
-        System.out.println("I was created in 2030.");
-        System.out.println("Please, remind me your name.");
-
-       String name = scanner.next();
-        System.out.println(name);
-
-        /* a strange /* // /* single-line comment */
-        /*/*
-            yet another comment
-        */
-        System.out.println(((12241 % 100) / 10) % 10);
-        scanner.nextInt();
-
-        System.out.println("What a great name you have, {yourName}!");
-
-
-//        System.out.print("**");
-//        System.out.println();
-//        System.out.println("**");
-//        System.out.print("**");
-//        System.out.println("OXX");
-//        System.out.println("OXO");
-//        System.out.println("XOX");
+        System.out.println("Test Test");
 
 
     }
