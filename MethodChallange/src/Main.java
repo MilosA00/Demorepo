@@ -15,11 +15,11 @@ public class Main {
 
     }
 
-    public static int calculateHighScorePosition (int score){
+    public static int calculateHighScorePosition(int score) {
 
         if (score > 1000)
             return 1;
-        else if(score > 500 && score < 1000)
+        else if (score > 500 && score < 1000)
             return 2;
         else if (score > 100 && score < 500)
             return 3;
@@ -28,10 +28,11 @@ public class Main {
 
     }
 
-    public  static void displayHighScorePosition(int x1 ,int x2 , int x3, int x4 ){
+    public static void displayHighScorePosition(int x1, int x2, int x3, int x4) {
 
         System.out.println("Score position:" + x1);
         System.out.println("Score position:" + x2);
         System.out.println("Score position:" + x3);
         System.out.println("Score position:" + x4);
     }
+}
