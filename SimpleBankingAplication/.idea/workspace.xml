@@ -2,26 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="677b501e-5c63-4b08-94eb-677478635102" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../AbstractClassChallange/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvantureGameChallange/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ArrayListChallange/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ArraySorter/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CompositionChallange/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InheritanceChallange/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InterfaceChallange/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MapsHashMapsPractice/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MethodChallange/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OperatorChallange/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PoundsToKGChallange/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Primitive Types Challange/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumDemo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumProject/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Branch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Branch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
